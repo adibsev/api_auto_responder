@@ -25,9 +25,8 @@ API ini digunakan oleh aplikasi Android yang menangkap notifikasi WhatsApp dan m
 ---
 
 ## 🚀 Teknologi
-- Backend: PHP / Node.js
+- Backend: PHP 
 - Database: MySQL / MariaDB
-- Android: Java / Kotlin
 
 ---
 
